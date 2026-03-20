@@ -13,7 +13,7 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Read Today's News 🗞️{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Read Today's News 📰{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly 🧠{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Business & Partnership Inquiries 🤝{{< /hextra/hero-badge >}}
 </div>
@@ -24,39 +24,39 @@ Hexi 2077's AI News Hub
   **Our philosophy**: We're not here to publish *all* the info, just the most accurate, timely, and genuinely useful stuff.
 {{< /callout >}}
 
-## Our Core Values ✨
+## Our Core Values 🌟
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise: We cut through the chatter, distilling what *really* matters from thousands of daily updates. Think of all the hours you'll save!" >}}
-  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight: We don't just translate; we deliver sharp analysis and give you the real lowdown on cutting-edge AI developments." >}}
-  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus: We keep tabs on how AI tools are *actually* being used in the wild, helping you snag genuine opportunities in the productivity revolution." >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise: We cut through the chatter, distilling what *really* matters from thousands of daily updates. Imagine the hours you'll save!" >}}
+  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight: We don't just translate; we deliver sharp analysis and give you the real scoop on cutting-edge AI developments." >}}
+  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus: We keep tabs on how AI tools are *actually* being used in the wild, helping you score genuine opportunities in the productivity revolution." >}}
 {{< /cards >}}
 
 ## Fresh off the Press! 🚀
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-19" title="AI News Daily 2026/03/19" subtitle="Tencent Hunyuan 3.0 set for April release, MiniMax M2.7 All-Rounder model" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-20" title="AI News Daily 2026/03/20" subtitle="Qwen3.5 Max math capability global third, Cursor releases Composer 2," icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-19" title="AI News Daily 2026/03/19" subtitle="Tencent Hunyuan 3.0 set for April release, MiniMax M2.7 All-Rounder model" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-18" title="AI News Daily 2026/03/18" subtitle="'GPT-5.4 lightweight model and Midjourney V8 test release: Inference" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-17" title="AI News Daily 2026/03/17" subtitle="NVIDIA launches GB300 desktop supercomputer, 748GB memory capable of" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="Microsoft, NVIDIA, OpenAI Release New Products Simultaneously; Billion-Dollar" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-15" title="AI News Daily 2026/03/15" subtitle="Claude's million-token context fully open, supporting 600 images. 360" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-14" title="AI News Daily 2026/03/14" subtitle="Gemini mobile automates cross-app tasks, Claude plugins enable cross-application" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
-## Your Reading Journey 🗺️
+## Your Reading Journey 🧭
 
 {{% steps %}}
 
 ### 1. Build a Big-Picture View
-New to AI? The [AI Weekly](/en/blog/weekly/) is your perfect launchpad! It's crafted to help you quickly grasp crucial industry shifts and keep you from getting swamped by fragmented info. Get ready to level up your learning, fast!
+For newcomers to AI, the [AI Weekly](/en/blog/weekly/) is your perfect launchpad! It's crafted to help you quickly grasp crucial industry shifts and keep you from getting swamped by fragmented info. Get ready to level up your learning, fast!
 
 ### 2. Stay in Daily Sync
-Wanna stay razor-sharp on AI? The [AI Daily Archive](/en/2026-03/2026-03-19) is your daily fix! Just 5 minutes a day keeps you totally synced with the global AI pulse. Stay sharp! 🎯
+The [AI Daily Archive](/en/2026-03/2026-03-20) is your daily fix to stay razor-sharp on AI! Just 5 minutes a day keeps you totally in sync with the global AI pulse. Stay sharp! ⚡
 
 ### 3. Explore Deeper Practice
-Ready to geek out? The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! ✨
+The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice for those ready to geek out! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! 🧙‍♂️
 
 {{% /steps %}}
 
