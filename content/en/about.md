@@ -4,25 +4,24 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there! I'm Hexi 2077 / justlovemaki
 
-> Ten years of coding, cool fingers at the keys,
-> A burning ambition, yet to seize.
-> Then AI's thunder roars, a new era starts,
-> I'm ready to chase the clouds, pouring out my heart!
+#### 👋 何夕2077 / justlovemaki
 
-#### 💡 My Code Philosophy
+> 十载代码指尖凉，胸中块垒郁未扬。
+> 忽闻智能风雷动，誓向云天搏一场。
 
-> For me, it's simple: technology's gotta serve the people!
+#### 🚀 我的代码哲学
 
-#### 🌟 Featured Projects
+> 技术为人民服务
 
-*   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   This **AIClient-2-API** is a beast! It's a powerful API proxy service that takes client-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro) and wraps them into a local OpenAI-compatible interface. What's more, it packs features like account pool management, smart polling, automatic failover, and system prompt management. Talk about full-featured!
-*   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   This **OpenClaw-Docker-CN-IM** is an integrated Docker image for OpenClaw's China IM plugins. It comes pre-loaded and configured with all the big-name Chinese IM platform plugins – think Feishu, DingTalk, QQ bots, WeChat Work, and more! You can spin it up super fast to deploy a multi-platform AI chatbot gateway. Seriously handy!
-*   Wanna check out more projects? Head over to my [GitHub](https://github.com/justlovemaki).
+#### ✨ 代表作
 
-#### 🔍 What I'm Into Now
+*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
+*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
+*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
 
-Right now, I'm super fascinated by **LLM applications and website SEO**. I'm diving headfirst into learning and getting hands-on experience with them!
+#### 🌱 当前探索
+
+对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
