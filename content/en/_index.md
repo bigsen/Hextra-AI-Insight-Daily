@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-04/2026-04-02" title="AI News Daily 2026/04/02" subtitle="英伟达TAO升级、阿里Wan2.7、Arcee Trinity等多款AI模型密集发布 Nova-X解决长文本遗忘、微软ADeLe登Nature、本地语音智能体落地 字节更名词元跳动、微软55亿投新加坡" icon="calendar" >}}
+{{< card link="/en/2026-04/2026-04-03" title="AI News Daily 2026/04/03" subtitle="阿里Qwen3.6-Plus、微软三款基础模型、Claude适配Windows Gemma 4多模态架构发布，Schmidhuber指控LeCun抄袭JEPA 中国AI使用量首超美国，美数据中心遇设备" icon="calendar" >}}
+  {{< card link="/en/2026-04/2026-04-02" title="AI News Daily 2026/04/02" subtitle="英伟达TAO升级、阿里Wan2.7、Arcee Trinity等多款AI模型密集发布 Nova-X解决长文本遗忘、微软ADeLe登Nature、本地语音智能体落地 字节更名词元跳动、微软55亿投新加坡" icon="calendar" >}}
   {{< card link="/en/2026-04/2026-04-01" title="AI News Daily 2026/04/01" subtitle="OpenAI secures $122 billion in funding, valuation hits $852 billion," icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-31" title="AI News Daily 2026/03/31" subtitle="Qwen3.5-Omni All-Modal Released; Claude Code Gets Auto Mode & Desktop" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-30" title="AI News Daily 2026/03/30" subtitle="Claude 5.0 internal testing exploited Linux vulnerability in 90 minutes," icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-29" title="AI News Daily 2026/03/29" subtitle="New models like Claude Mythos and Voxtral TTS are being released frequently." icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-28" title="AI News Daily 2026/03/28" subtitle="GLM5.1 completely surpasses previous gen, Gemini now supports competitor" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! Seriously, it's the perfect launchpad. This must-have resource helps you quickly get a handle on key industry shifts, so you won't get drowned in fragmented info. Get ready to boost your learning, lightning fast! ⚡
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-04/2026-04-02) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✨
+The [AI Daily Archive](/en/2026-04/2026-04-03) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a thing! ✨
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is where you go for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! 🧙‍♂️
